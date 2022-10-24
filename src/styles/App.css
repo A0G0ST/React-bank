@@ -1,0 +1,74 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+}
+.form-cont {
+  border: solid white 2px;
+  text-align: center;
+  display: flex;
+  margin-top: 32px;
+  justify-content: space-around;
+}
+input {
+  width: 250px;
+  border-radius: 20px;
+  padding: 10px;
+  height: 20px;
+  margin: 20px;
+  text-align: center;
+}
+
+.depositlist-container {
+  text-align: center;
+  display: block;
+  width: 20rem;
+  background-color: transparent;
+}
+
+.deposit-list {
+  width: 20rem;
+}
+
+.withdrawlist-container {
+  text-align: center;
+  display: block;
+  width: 20rem;
+}
+.withdraw-list {
+  width: 20rem;
+}
+.list-cont {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 32px;
+}
+
+.listh1-cont {
+  padding: 2rem 2rem;
+  text-align: center;
+  display: flex;
+  margin-bottom: 32px;
+}
+.listh1 {
+  flex: 1;
+}
+.state-cont {
+  border: solid white 2px;
+  text-align: center;
+  display: flex;
+  margin-top: 32px;
+  justify-content: space-around;
+}
+.history {
+  border: solid white 2px;
+  margin-top: 32px;
+}
+.money-in {
+  color: green;
+}
+.money-out {
+  color: red;
+}

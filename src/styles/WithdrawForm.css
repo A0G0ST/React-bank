@@ -1,0 +1,18 @@
+.withdraw-form {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.withdraw-button {
+  background-color: red;
+  color: white;
+  width: 140px;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 20px;
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
